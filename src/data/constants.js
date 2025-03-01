@@ -302,12 +302,12 @@ export const projects = [
   },
   {
     id: 2,
-    title: "e-Commerce website",
+    title: "Hospital Management webapp",
     description:
-      "Built a MERN stack e-commerce site with JWT for authentication and React-Toastify for notifications. Features include product management, shopping cart, and order processing for a smooth experience",
+      "Developed a Hospital Management System using Laravel to streamline the management of doctors, appointments, and users.",
     image:
-      "https://i.postimg.cc/VsRcGwG7/Whats-App-Image-2024-08-29-at-08-45-49.jpg",
-    github: "https://github.com/vimu98/E-commerce-Fashion-website-client",
+      "https://i.postimg.cc/7Znt5qZ3/Whats-App-Image-2025-03-01-at-09-16-40.jpg",
+    github: "https://github.com/vimu98/hospital-management-app",
   },
   {
     id: 3,
