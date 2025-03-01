@@ -304,7 +304,7 @@ export const projects = [
     id: 2,
     title: "Hospital Management webapp",
     description:
-      "Developed a Hospital Management System using Laravel to streamline the management of doctors, appointments, and users.",
+      "Developed a Hospital Management System using Laravel to streamline the management of doctors, appointments, and users. With Laravel, PHP, MySQL",
     image:
       "https://i.postimg.cc/7Znt5qZ3/Whats-App-Image-2025-03-01-at-09-16-40.jpg",
     github: "https://github.com/vimu98/hospital-management-app",
